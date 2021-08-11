@@ -16,7 +16,7 @@ The code repository for "Co-Transport for Class-Incremental Learning
 
 Traditional learning systems are trained in closed-world for a fixed number of classes, and need pre-collected datasets in advance. However, new classes often emerge in real-world applications and should be learned incrementally. For example, in electronic commerce, new types of products appear daily, and in a social media community, new topics emerge frequently. Under such circumstances, incremental models should learn several new classes at a time without forgetting. We find a strong correlation between old and new classes in incremental learning, which can be applied to relate and facilitate different learning stages mutually. As a result, we propose CO-transport for class Incremental Learning (COIL), which learns to relate across incremental tasks with the class-wise semantic relationship. In detail, co-transport has two aspects: prospective transport tries to augment the old classifier with optimal transported knowledge as fast model adaptation. Retrospective transport aims to transport new class classifiers backward as old ones to overcome forgetting. With these transports, COIL efficiently adapts to new tasks, and stably resists forgetting. Experiments on benchmark and real-world multimedia datasets validate the effectiveness of our proposed method.
 
-<img src='imgs/coil.png' width='1400' height='330'>
+<img src='imgs/coil.png' width='700' height='320'>
 
 ## Prerequisites
 
