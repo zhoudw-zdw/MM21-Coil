@@ -24,6 +24,8 @@ The following packages are required to run the scripts:
 
 - [PyTorch-1.4 and torchvision](https://pytorch.org)
 
+- [POT](https://github.com/PythonOT/POT)
+
 - Dataset: the code will automatically download CIFAR100 for training. 
 
 
@@ -43,8 +45,6 @@ We provide the code to reproduce results on CIFAR 100.
   ```
   
   
-
- 
 ## Acknowledgment
 We thank the following repos providing helpful components/functions in our work.
 - [continual-learning-reproduce](https://github.com/zhchuu/continual-learning-reproduce)
