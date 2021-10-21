@@ -8,6 +8,7 @@ The code repository for "Co-Transport for Class-Incremental Learning
     author = {Zhou, Da-Wei and Ye, Han-Jia and Zhan, De-Chuan},
     title = {Co-Transport for Class-Incremental Learning},
     booktitle = {ACM MM},
+    pages = {1645-1654},
     year = {2021}
     }
 
