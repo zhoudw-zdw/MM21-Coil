@@ -12,6 +12,8 @@ The code repository for "Co-Transport for Class-Incremental Learning
     year = {2021}
     }
 
+Update: We release a code repo for [Class-Incremental Learning](https://github.com/G-U-N/PyCIL) with more than 10 algorithms, and the code of Coil is also contained in it.
+
 ## Co-Transport for Class-Incremental Learning
 
 
